@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BUTFIRE\\source\\repos\\desafioDIO\\desafioDIO\\Tipo de combustivel.csproj",
+      "projectUniqueName": "C:\\Users\\BUTFIRE\\DesafioDIO\\desafioDIO\\Tipo de combustivel.csproj",
       "projectName": "Tipo de combustivel",
-      "projectPath": "C:\\Users\\BUTFIRE\\source\\repos\\desafioDIO\\desafioDIO\\Tipo de combustivel.csproj",
+      "projectPath": "C:\\Users\\BUTFIRE\\DesafioDIO\\desafioDIO\\Tipo de combustivel.csproj",
       "packagesPath": "C:\\Users\\BUTFIRE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BUTFIRE\\source\\repos\\desafioDIO\\desafioDIO\\obj\\",
+      "outputPath": "C:\\Users\\BUTFIRE\\DesafioDIO\\desafioDIO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BUTFIRE\\AppData\\Roaming\\NuGet\\NuGet.Config",

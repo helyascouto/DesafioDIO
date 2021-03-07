@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BUTFIRE\\source\\repos\\desafioDIO\\Programa para Validação de Notas\\Programa para Validação de Notas.csproj": {}
+    "C:\\Users\\BUTFIRE\\DesafioDIO\\Programa para Validação de Notas\\Programa para Validação de Notas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BUTFIRE\\source\\repos\\desafioDIO\\Programa para Validação de Notas\\Programa para Validação de Notas.csproj": {
+    "C:\\Users\\BUTFIRE\\DesafioDIO\\Programa para Validação de Notas\\Programa para Validação de Notas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BUTFIRE\\source\\repos\\desafioDIO\\Programa para Validação de Notas\\Programa para Validação de Notas.csproj",
+        "projectUniqueName": "C:\\Users\\BUTFIRE\\DesafioDIO\\Programa para Validação de Notas\\Programa para Validação de Notas.csproj",
         "projectName": "Programa para Validação de Notas",
-        "projectPath": "C:\\Users\\BUTFIRE\\source\\repos\\desafioDIO\\Programa para Validação de Notas\\Programa para Validação de Notas.csproj",
+        "projectPath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Programa para Validação de Notas\\Programa para Validação de Notas.csproj",
         "packagesPath": "C:\\Users\\BUTFIRE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BUTFIRE\\source\\repos\\desafioDIO\\Programa para Validação de Notas\\obj\\",
+        "outputPath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Programa para Validação de Notas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BUTFIRE\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BUTFIRE\\source\\repos\\desafioDIO\\Substituição em Vetor I\\Substituição em Vetor I.csproj",
+      "projectUniqueName": "C:\\Users\\BUTFIRE\\DesafioDIO\\Substituição em Vetor I\\Substituição em Vetor I.csproj",
       "projectName": "Substituição em Vetor I",
-      "projectPath": "C:\\Users\\BUTFIRE\\source\\repos\\desafioDIO\\Substituição em Vetor I\\Substituição em Vetor I.csproj",
+      "projectPath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Substituição em Vetor I\\Substituição em Vetor I.csproj",
       "packagesPath": "C:\\Users\\BUTFIRE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BUTFIRE\\source\\repos\\desafioDIO\\Substituição em Vetor I\\obj\\",
+      "outputPath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Substituição em Vetor I\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BUTFIRE\\AppData\\Roaming\\NuGet\\NuGet.Config",
