@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Validador de senhas com requisitos/1.0.0": {
+        "runtime": {
+          "Validador de senhas com requisitos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Validador de senhas com requisitos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

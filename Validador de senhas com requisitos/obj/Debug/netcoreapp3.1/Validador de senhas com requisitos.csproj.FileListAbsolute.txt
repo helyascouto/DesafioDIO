@@ -1,0 +1,12 @@
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\bin\Debug\netcoreapp3.1\Validador de senhas com requisitos.exe
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\bin\Debug\netcoreapp3.1\Validador de senhas com requisitos.deps.json
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\bin\Debug\netcoreapp3.1\Validador de senhas com requisitos.runtimeconfig.json
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\bin\Debug\netcoreapp3.1\Validador de senhas com requisitos.runtimeconfig.dev.json
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\bin\Debug\netcoreapp3.1\Validador de senhas com requisitos.dll
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\bin\Debug\netcoreapp3.1\Validador de senhas com requisitos.pdb
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.AssemblyInfoInputs.cache
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.AssemblyInfo.cs
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.csproj.CoreCompileInputs.cache
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.dll
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.pdb
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.genruntimeconfig.cache

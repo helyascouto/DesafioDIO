@@ -64,7 +64,7 @@ namespace ValidacaoNotas
 
 
                     } while (op != true);
-                   
+
                 }
 
 

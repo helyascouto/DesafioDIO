@@ -1,0 +1,13 @@
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\bin\Debug\netcoreapp3.1\Quanta Mandioca.exe
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\bin\Debug\netcoreapp3.1\Quanta Mandioca.deps.json
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\bin\Debug\netcoreapp3.1\Quanta Mandioca.runtimeconfig.json
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\bin\Debug\netcoreapp3.1\Quanta Mandioca.runtimeconfig.dev.json
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\bin\Debug\netcoreapp3.1\Quanta Mandioca.dll
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\bin\Debug\netcoreapp3.1\Quanta Mandioca.pdb
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.csprojAssemblyReference.cache
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.AssemblyInfoInputs.cache
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.AssemblyInfo.cs
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.csproj.CoreCompileInputs.cache
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.dll
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.pdb
+C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.genruntimeconfig.cache
