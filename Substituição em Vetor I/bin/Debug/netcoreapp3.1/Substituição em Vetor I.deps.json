@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Substituição em Vetor I/1.0.0": {
+        "runtime": {
+          "Substituição em Vetor I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Substituição em Vetor I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
