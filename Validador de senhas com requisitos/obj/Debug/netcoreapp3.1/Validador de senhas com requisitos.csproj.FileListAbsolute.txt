@@ -10,3 +10,4 @@ C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcore
 C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.dll
 C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.pdb
 C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.genruntimeconfig.cache
+C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.csprojAssemblyReference.cache

@@ -10,3 +10,4 @@ C:\Users\BUTFIRE\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Comp
 C:\Users\BUTFIRE\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.dll
 C:\Users\BUTFIRE\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.pdb
 C:\Users\BUTFIRE\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.genruntimeconfig.cache
+C:\Users\BUTFIRE\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.csprojAssemblyReference.cache

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cPcWInhf2Sha/CJb+8PGig0yGYPh2Iwbk9cTegdlTo3sKVVMxACRjTKyLHl0dpD8zxPVWbQMLVFqSg3K2RgCFw==",
+  "dgSpecHash": "SnMnATZwSO1eCTSVto7TFwrZ+JpXXp1q5RRn3eppy46/dbg2ePxgiAIcHmfk/DuO9b03w7QHT6d0ar5tO6fSUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Validador de senhas com requisitos\\Validador de senhas com requisitos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\BUTFIRE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

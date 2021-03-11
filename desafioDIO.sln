@@ -9,13 +9,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Substituição em Vetor I",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programa para Validação de Notas", "Programa para Validação de Notas\Programa para Validação de Notas.csproj", "{246224BB-94BC-4060-A920-000DFFF19B4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quanta Mandioca", "Quanta Mandioca\Quanta Mandioca.csproj", "{8E5B2270-0FE6-427B-B93E-2E48CBC5D924}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quanta Mandioca", "Quanta Mandioca\Quanta Mandioca.csproj", "{8E5B2270-0FE6-427B-B93E-2E48CBC5D924}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compras no Supermercado", "Compras no Supermercado\Compras no Supermercado.csproj", "{6D11FCC3-EFA6-4120-B3DF-580651AF1F4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compras no Supermercado", "Compras no Supermercado\Compras no Supermercado.csproj", "{6D11FCC3-EFA6-4120-B3DF-580651AF1F4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validador de senhas com requisitos", "Validador de senhas com requisitos\Validador de senhas com requisitos.csproj", "{6EACFDF9-423B-4BEE-A39B-991CEBA88DAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validador de senhas com requisitos", "Validador de senhas com requisitos\Validador de senhas com requisitos.csproj", "{6EACFDF9-423B-4BEE-A39B-991CEBA88DAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fila do Banco", "Fila do Banco\Fila do Banco.csproj", "{F74801F6-5C2C-4C2E-9CEF-C541BF7C466D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fila do Banco", "Fila do Banco\Fila do Banco.csproj", "{F74801F6-5C2C-4C2E-9CEF-C541BF7C466D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visita na Feira", "Visita na Feira\Visita na Feira.csproj", "{58590E60-7DEF-4BB1-A41E-8C1874AAF007}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{F74801F6-5C2C-4C2E-9CEF-C541BF7C466D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F74801F6-5C2C-4C2E-9CEF-C541BF7C466D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F74801F6-5C2C-4C2E-9CEF-C541BF7C466D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58590E60-7DEF-4BB1-A41E-8C1874AAF007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58590E60-7DEF-4BB1-A41E-8C1874AAF007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58590E60-7DEF-4BB1-A41E-8C1874AAF007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58590E60-7DEF-4BB1-A41E-8C1874AAF007}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

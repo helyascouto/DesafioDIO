@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GVlVvHx887SNs5zy/v4IRftAdun50JFilXwFQ3OUyFYxRO4MVne4+iLd88P2v97Wnh/JgmqsepxtrlQ2bgL6XA==",
+  "dgSpecHash": "mOFC741Kd/5P3OrfxVRguo7eGVr9Drz16TBy3+bnuScrSQmVujoEx2yKAdT3V8CBocNUZmxq4QOov98sq4gGxQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Programa para Validação de Notas\\Programa para Validação de Notas.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\BUTFIRE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

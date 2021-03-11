@@ -2,7 +2,7 @@
 
 namespace Substituição_em_Vetor_I
 {
-    class Program
+    class SubstituiçãoVetor
     {
         static void Main(string[] args)
         {

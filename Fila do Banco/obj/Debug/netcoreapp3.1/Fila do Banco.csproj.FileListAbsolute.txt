@@ -10,3 +10,4 @@ C:\Users\BUTFIRE\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.
 C:\Users\BUTFIRE\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.dll
 C:\Users\BUTFIRE\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.pdb
 C:\Users\BUTFIRE\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.genruntimeconfig.cache
+C:\Users\BUTFIRE\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.csprojAssemblyReference.cache
