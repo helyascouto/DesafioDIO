@@ -38,7 +38,7 @@ namespace ValidacaoNotas
                     do
                     {
                         escolha = 0;
-                        Console.WriteLine("Novo calculo (1-sim 2-nao)");
+                        Console.WriteLine("novo calculo (1-sim 2-nao)");
                         escolha = Convert.ToInt32(Console.ReadLine());
 
                         if (escolha == 1)

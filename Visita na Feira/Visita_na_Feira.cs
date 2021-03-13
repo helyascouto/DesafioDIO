@@ -7,10 +7,11 @@ class minhaClasse
     {
 
         int a, b, x;
-        a = Convert.ToInt32(Console.ReadLine());
-        b = Convert.ToInt32(Console.ReadLine());
+        string[] entrada = Console.ReadLine().Split(' ');
+        a = Convert.ToInt32(entrada[0]);
+        b = Convert.ToInt32(entrada[1]);
+        x = a + b;
 
-        x = a + b; //complete o código de acordo com o cálculo esperado
 
         Console.WriteLine("X = {0}", x);
 
