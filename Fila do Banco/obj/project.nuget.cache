@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lOxnwLA8/8BpmOkxHvDVJtH79/gRF2GEkbDrkprPH6O1F60XtOQrqTQfWN3bh8Mgr4yCCcExbtTZRLy05EK3xg==",
+  "dgSpecHash": "6yWJB0qFurdrpwk4uQAQ1qfZS+Ebl1CkatWnngF+JGExj0u39NW3C6J2OMjEui1mjggdtS9aOwS7wQIauJwp8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Fila do Banco\\Fila do Banco.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BUTFIRE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Elias Couto\\source\\repos\\helyascouto\\DesafioDIO\\Fila do Banco\\Fila do Banco.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

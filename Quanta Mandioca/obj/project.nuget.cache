@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7hhWO3TW/MQg+gK7vmowF+oWG5IETChNrsAUSEG+pvQEy4jITDkYLDbnPTqsp9e4XColwGedwQ9px8Jna3O1Gg==",
+  "dgSpecHash": "diwLD7B9DqwAXIMbSU7NxBEyIXPR3IKnlJxytFALIrn1EWx95pBKU4eVKEwKVo8bME2reXqLx0FTLI9YCnf9Jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Quanta Mandioca\\Quanta Mandioca.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BUTFIRE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Elias Couto\\source\\repos\\helyascouto\\DesafioDIO\\Quanta Mandioca\\Quanta Mandioca.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

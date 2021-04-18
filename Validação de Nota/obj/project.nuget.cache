@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oeyo0XhWqu+5a+3xJ4nUw0shZgxl1AzwIcFmeFLaJybdwHJb6lJ6MyuVjqntHHIfRnxjMUbSBnjEw2lcHWFW2g==",
+  "dgSpecHash": "88HJkBzYTH3rUqsqcNGf/WHqgMwmXjK7CIzYViuFDUtmjosx4xBVoNjCboVKOkr1vE3e5VycfeGl9ePmBLe6wQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Validação de Nota\\Validação de Nota.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BUTFIRE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Elias Couto\\source\\repos\\helyascouto\\DesafioDIO\\Validação de Nota\\Validação de Nota.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

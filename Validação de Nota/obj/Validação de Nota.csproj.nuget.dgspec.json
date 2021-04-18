@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BUTFIRE\\DesafioDIO\\Validação de Nota\\Validação de Nota.csproj": {}
+    "C:\\Users\\Elias Couto\\source\\repos\\helyascouto\\DesafioDIO\\Validação de Nota\\Validação de Nota.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BUTFIRE\\DesafioDIO\\Validação de Nota\\Validação de Nota.csproj": {
+    "C:\\Users\\Elias Couto\\source\\repos\\helyascouto\\DesafioDIO\\Validação de Nota\\Validação de Nota.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BUTFIRE\\DesafioDIO\\Validação de Nota\\Validação de Nota.csproj",
+        "projectUniqueName": "C:\\Users\\Elias Couto\\source\\repos\\helyascouto\\DesafioDIO\\Validação de Nota\\Validação de Nota.csproj",
         "projectName": "Validação de Nota",
-        "projectPath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Validação de Nota\\Validação de Nota.csproj",
-        "packagesPath": "C:\\Users\\BUTFIRE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Validação de Nota\\obj\\",
+        "projectPath": "C:\\Users\\Elias Couto\\source\\repos\\helyascouto\\DesafioDIO\\Validação de Nota\\Validação de Nota.csproj",
+        "packagesPath": "C:\\Users\\Elias Couto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elias Couto\\source\\repos\\helyascouto\\DesafioDIO\\Validação de Nota\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\BUTFIRE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elias Couto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,18 +53,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.13, 3.1.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

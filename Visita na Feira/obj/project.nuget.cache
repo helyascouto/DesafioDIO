@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PtZmUGaXS1RdC+BajKdF/a94Kicq4Nzim3ZNoDkKA5t/igIsYw7ITWqGqQwnepHTWx4dn/IeXNpE0B/n6FZ7IA==",
+  "dgSpecHash": "r2R+ALO4dST/1BmELN5lmLe7iKsQmtpNYVOHM7BHCIRQQ/tAiefhZN7yv88RiqB4o3lQXXU0P/vVGJbC5hXMFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Visita na Feira\\Visita na Feira.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BUTFIRE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Elias Couto\\source\\repos\\helyascouto\\DesafioDIO\\Visita na Feira\\Visita na Feira.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

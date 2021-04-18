@@ -1,0 +1,13 @@
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\bin\Debug\netcoreapp3.1\Validação de Nota.exe
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\bin\Debug\netcoreapp3.1\Validação de Nota.deps.json
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\bin\Debug\netcoreapp3.1\Validação de Nota.runtimeconfig.json
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\bin\Debug\netcoreapp3.1\Validação de Nota.runtimeconfig.dev.json
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\bin\Debug\netcoreapp3.1\Validação de Nota.dll
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\bin\Debug\netcoreapp3.1\Validação de Nota.pdb
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\obj\Debug\netcoreapp3.1\Validação de Nota.csprojAssemblyReference.cache
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\obj\Debug\netcoreapp3.1\Validação de Nota.AssemblyInfoInputs.cache
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\obj\Debug\netcoreapp3.1\Validação de Nota.AssemblyInfo.cs
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\obj\Debug\netcoreapp3.1\Validação de Nota.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\obj\Debug\netcoreapp3.1\Validação de Nota.dll
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\obj\Debug\netcoreapp3.1\Validação de Nota.pdb
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validação de Nota\obj\Debug\netcoreapp3.1\Validação de Nota.genruntimeconfig.cache

@@ -8,19 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\BUTFIRE\\.nuget\\packages\\": {}
+    "C:\\Users\\Elias Couto\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BUTFIRE\\DesafioDIO\\Validador de senhas com requisitos\\Validador de senhas com requisitos.csproj",
+      "projectUniqueName": "C:\\Users\\Elias Couto\\Source\\Repos\\helyascouto\\DesafioDIO\\Validador de senhas com requisitos\\Validador de senhas com requisitos.csproj",
       "projectName": "Validador de senhas com requisitos",
-      "projectPath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Validador de senhas com requisitos\\Validador de senhas com requisitos.csproj",
-      "packagesPath": "C:\\Users\\BUTFIRE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Validador de senhas com requisitos\\obj\\",
+      "projectPath": "C:\\Users\\Elias Couto\\Source\\Repos\\helyascouto\\DesafioDIO\\Validador de senhas com requisitos\\Validador de senhas com requisitos.csproj",
+      "packagesPath": "C:\\Users\\Elias Couto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Elias Couto\\Source\\Repos\\helyascouto\\DesafioDIO\\Validador de senhas com requisitos\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\BUTFIRE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Elias Couto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -55,18 +60,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.13, 3.1.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

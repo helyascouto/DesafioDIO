@@ -1,0 +1,2 @@
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Substituição em Vetor\obj\Debug\Substituição em Vetor.csprojAssemblyReference.cache
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Substituição em Vetor\obj\Debug\Substituição em Vetor.csproj.CoreCompileInputs.cache

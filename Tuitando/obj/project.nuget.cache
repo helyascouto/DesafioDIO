@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IrkLuvsKxoOpCv8A3BOKn6FtNITWC3RMcfK5X5xKZOOTn3/57JnivH7S6OFxnDw+bZV3LWwwuhYGTkBLclNlyA==",
+  "dgSpecHash": "CxmTLEAAgMJegc8wXmpnh7kF43BTMuvj5krw5aq7Baf7avPEEePn3auV9lQzIlYoK+Cudjgh/tIAEZv0MgkFeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Tuitando\\Tuitando.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BUTFIRE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Elias Couto\\source\\repos\\helyascouto\\DesafioDIO\\Tuitando\\Tuitando.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

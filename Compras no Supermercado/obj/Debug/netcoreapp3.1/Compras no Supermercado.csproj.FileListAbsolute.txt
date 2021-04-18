@@ -11,3 +11,15 @@ C:\Users\BUTFIRE\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Comp
 C:\Users\BUTFIRE\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.pdb
 C:\Users\BUTFIRE\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.genruntimeconfig.cache
 C:\Users\BUTFIRE\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.csprojAssemblyReference.cache
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Compras no Supermercado\bin\Debug\netcoreapp3.1\Compras no Supermercado.exe
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Compras no Supermercado\bin\Debug\netcoreapp3.1\Compras no Supermercado.deps.json
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Compras no Supermercado\bin\Debug\netcoreapp3.1\Compras no Supermercado.runtimeconfig.json
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Compras no Supermercado\bin\Debug\netcoreapp3.1\Compras no Supermercado.runtimeconfig.dev.json
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Compras no Supermercado\bin\Debug\netcoreapp3.1\Compras no Supermercado.dll
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Compras no Supermercado\bin\Debug\netcoreapp3.1\Compras no Supermercado.pdb
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.AssemblyInfoInputs.cache
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.AssemblyInfo.cs
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.dll
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.pdb
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Compras no Supermercado\obj\Debug\netcoreapp3.1\Compras no Supermercado.genruntimeconfig.cache

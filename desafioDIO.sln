@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31019.35
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tipo de combustivel", "desafioDIO\Tipo de combustivel.csproj", "{978E2472-12F7-4F5F-8FD0-400052892A5B}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Substituição em Vetor I", "Substituição em Vetor I\Substituição em Vetor I.csproj", "{5F4B79CE-9C6E-4DDD-AA82-59304EF17C9D}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Programa para Validação de Notas", "Programa para Validação de Notas\Programa para Validação de Notas.csproj", "{246224BB-94BC-4060-A920-000DFFF19B4E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quanta Mandioca", "Quanta Mandioca\Quanta Mandioca.csproj", "{8E5B2270-0FE6-427B-B93E-2E48CBC5D924}"
@@ -17,11 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validador de senhas com req
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fila do Banco", "Fila do Banco\Fila do Banco.csproj", "{F74801F6-5C2C-4C2E-9CEF-C541BF7C466D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visita na Feira", "Visita na Feira\Visita na Feira.csproj", "{8339AA82-BDDF-43A2-83EB-BE0C53348729}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Visita na Feira", "Visita na Feira\Visita na Feira.csproj", "{8339AA82-BDDF-43A2-83EB-BE0C53348729}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuitando", "Tuitando\Tuitando.csproj", "{E259FE8B-02B2-4BFF-AF3C-8F154A0B1FE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuitando", "Tuitando\Tuitando.csproj", "{E259FE8B-02B2-4BFF-AF3C-8F154A0B1FE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validação de Nota", "Validação de Nota\Validação de Nota.csproj", "{EC48AE82-3C68-4D5E-A120-DBAEA840E054}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validação de Nota", "Validação de Nota\Validação de Nota.csproj", "{EC48AE82-3C68-4D5E-A120-DBAEA840E054}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Teste de Seleção 1", "Teste de Seleção 1\Teste de Seleção 1.csproj", "{296E2439-C0D3-47D8-9DD5-42221D6104BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triângulo", "Triângulo\Triângulo.csproj", "{D52AB67A-C330-4E24-9940-43119D3BCF18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,14 +29,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{978E2472-12F7-4F5F-8FD0-400052892A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{978E2472-12F7-4F5F-8FD0-400052892A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{978E2472-12F7-4F5F-8FD0-400052892A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{978E2472-12F7-4F5F-8FD0-400052892A5B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5F4B79CE-9C6E-4DDD-AA82-59304EF17C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5F4B79CE-9C6E-4DDD-AA82-59304EF17C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5F4B79CE-9C6E-4DDD-AA82-59304EF17C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5F4B79CE-9C6E-4DDD-AA82-59304EF17C9D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{246224BB-94BC-4060-A920-000DFFF19B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{246224BB-94BC-4060-A920-000DFFF19B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{246224BB-94BC-4060-A920-000DFFF19B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -69,6 +61,14 @@ Global
 		{EC48AE82-3C68-4D5E-A120-DBAEA840E054}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC48AE82-3C68-4D5E-A120-DBAEA840E054}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC48AE82-3C68-4D5E-A120-DBAEA840E054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{296E2439-C0D3-47D8-9DD5-42221D6104BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296E2439-C0D3-47D8-9DD5-42221D6104BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296E2439-C0D3-47D8-9DD5-42221D6104BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296E2439-C0D3-47D8-9DD5-42221D6104BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D52AB67A-C330-4E24-9940-43119D3BCF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52AB67A-C330-4E24-9940-43119D3BCF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52AB67A-C330-4E24-9940-43119D3BCF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52AB67A-C330-4E24-9940-43119D3BCF18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

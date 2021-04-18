@@ -1,0 +1,7 @@
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Coordenadas de um Ponto\bin\Debug\Coordenadas de um Ponto.exe.config
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Coordenadas de um Ponto\bin\Debug\Coordenadas de um Ponto.exe
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Coordenadas de um Ponto\bin\Debug\Coordenadas de um Ponto.pdb
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Coordenadas de um Ponto\obj\Debug\Coordenadas de um Ponto.csprojAssemblyReference.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Coordenadas de um Ponto\obj\Debug\Coordenadas de um Ponto.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Coordenadas de um Ponto\obj\Debug\Coordenadas de um Ponto.exe
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Coordenadas de um Ponto\obj\Debug\Coordenadas de um Ponto.pdb

@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0gpdyPBwZNW/mkpxhl1gYiITsGPcOUzg8HQSSF4sr/GkCb4z8su4C+bGhKi7EAwKUQtIXqrKHBaB7Jb1iZi7dA==",
+  "dgSpecHash": "YXR4SyC8y7trQdrSUTPJ2quUTV5PgsylDvsENuxcKY4Otl2t1js6ESu4QQE39swPU4u1+KB6LW/0hdqAsuSASg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BUTFIRE\\DesafioDIO\\Compras no Supermercado\\Compras no Supermercado.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\BUTFIRE\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Elias Couto\\source\\repos\\helyascouto\\DesafioDIO\\Compras no Supermercado\\Compras no Supermercado.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
