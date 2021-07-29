@@ -1,0 +1,16 @@
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\bin\Debug\net5.0\Novo Console.exe
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\bin\Debug\net5.0\Novo Console.deps.json
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\bin\Debug\net5.0\Novo Console.runtimeconfig.json
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\bin\Debug\net5.0\Novo Console.runtimeconfig.dev.json
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\bin\Debug\net5.0\Novo Console.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\bin\Debug\net5.0\ref\Novo Console.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\bin\Debug\net5.0\Novo Console.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\obj\Debug\net5.0\Novo Console.csproj.AssemblyReference.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\obj\Debug\net5.0\Novo Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\obj\Debug\net5.0\Novo Console.AssemblyInfoInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\obj\Debug\net5.0\Novo Console.AssemblyInfo.cs
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\obj\Debug\net5.0\Novo Console.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\obj\Debug\net5.0\Novo Console.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\obj\Debug\net5.0\ref\Novo Console.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\obj\Debug\net5.0\Novo Console.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Novo Console\obj\Debug\net5.0\Novo Console.genruntimeconfig.cache

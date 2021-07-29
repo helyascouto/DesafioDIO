@@ -1,0 +1,16 @@
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\obj\Debug\net5.0\Encaixa ou Não.csproj.AssemblyReference.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\obj\Debug\net5.0\Encaixa ou Não.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\obj\Debug\net5.0\Encaixa ou Não.AssemblyInfoInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\obj\Debug\net5.0\Encaixa ou Não.AssemblyInfo.cs
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\obj\Debug\net5.0\Encaixa ou Não.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\bin\Debug\net5.0\Encaixa ou Não.exe
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\bin\Debug\net5.0\Encaixa ou Não.deps.json
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\bin\Debug\net5.0\Encaixa ou Não.runtimeconfig.json
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\bin\Debug\net5.0\Encaixa ou Não.runtimeconfig.dev.json
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\bin\Debug\net5.0\Encaixa ou Não.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\bin\Debug\net5.0\ref\Encaixa ou Não.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\bin\Debug\net5.0\Encaixa ou Não.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\obj\Debug\net5.0\Encaixa ou Não.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\obj\Debug\net5.0\ref\Encaixa ou Não.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\obj\Debug\net5.0\Encaixa ou Não.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Encaixa ou Não\obj\Debug\net5.0\Encaixa ou Não.genruntimeconfig.cache

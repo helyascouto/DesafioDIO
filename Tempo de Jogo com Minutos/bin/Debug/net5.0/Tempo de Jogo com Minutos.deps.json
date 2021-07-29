@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tempo de Jogo com Minutos/1.0.0": {
+        "runtime": {
+          "Tempo de Jogo com Minutos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tempo de Jogo com Minutos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

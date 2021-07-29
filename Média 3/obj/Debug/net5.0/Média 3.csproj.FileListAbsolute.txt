@@ -1,0 +1,16 @@
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\bin\Debug\net5.0\Média 3.exe
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\bin\Debug\net5.0\Média 3.deps.json
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\bin\Debug\net5.0\Média 3.runtimeconfig.json
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\bin\Debug\net5.0\Média 3.runtimeconfig.dev.json
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\bin\Debug\net5.0\Média 3.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\bin\Debug\net5.0\ref\Média 3.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\bin\Debug\net5.0\Média 3.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\obj\Debug\net5.0\Média 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\obj\Debug\net5.0\Média 3.AssemblyInfoInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\obj\Debug\net5.0\Média 3.AssemblyInfo.cs
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\obj\Debug\net5.0\Média 3.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\obj\Debug\net5.0\Média 3.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\obj\Debug\net5.0\ref\Média 3.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\obj\Debug\net5.0\Média 3.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\obj\Debug\net5.0\Média 3.genruntimeconfig.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Média 3\obj\Debug\net5.0\Média 3.csproj.AssemblyReference.cache

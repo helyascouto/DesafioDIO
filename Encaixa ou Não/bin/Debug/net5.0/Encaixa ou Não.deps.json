@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Encaixa ou Não/1.0.0": {
+        "runtime": {
+          "Encaixa ou Não.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Encaixa ou Não/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Preenchimento de Vetor I/1.0.0": {
+        "runtime": {
+          "Preenchimento de Vetor I.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Preenchimento de Vetor I/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

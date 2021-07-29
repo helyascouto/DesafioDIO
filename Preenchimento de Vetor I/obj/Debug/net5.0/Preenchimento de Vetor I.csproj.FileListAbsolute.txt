@@ -1,0 +1,16 @@
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\obj\Debug\net5.0\Preenchimento de Vetor I.csproj.AssemblyReference.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\obj\Debug\net5.0\Preenchimento de Vetor I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\obj\Debug\net5.0\Preenchimento de Vetor I.AssemblyInfoInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\obj\Debug\net5.0\Preenchimento de Vetor I.AssemblyInfo.cs
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\obj\Debug\net5.0\Preenchimento de Vetor I.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\bin\Debug\net5.0\Preenchimento de Vetor I.exe
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\bin\Debug\net5.0\Preenchimento de Vetor I.deps.json
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\bin\Debug\net5.0\Preenchimento de Vetor I.runtimeconfig.json
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\bin\Debug\net5.0\Preenchimento de Vetor I.runtimeconfig.dev.json
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\bin\Debug\net5.0\Preenchimento de Vetor I.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\bin\Debug\net5.0\ref\Preenchimento de Vetor I.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\bin\Debug\net5.0\Preenchimento de Vetor I.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\obj\Debug\net5.0\Preenchimento de Vetor I.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\obj\Debug\net5.0\ref\Preenchimento de Vetor I.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\obj\Debug\net5.0\Preenchimento de Vetor I.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Preenchimento de Vetor I\obj\Debug\net5.0\Preenchimento de Vetor I.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\bin\Debug\net5.0\Media Positivo.exe
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\bin\Debug\net5.0\Media Positivo.deps.json
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\bin\Debug\net5.0\Media Positivo.runtimeconfig.json
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\bin\Debug\net5.0\Media Positivo.runtimeconfig.dev.json
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\bin\Debug\net5.0\Media Positivo.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\bin\Debug\net5.0\ref\Media Positivo.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\bin\Debug\net5.0\Media Positivo.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\obj\Debug\net5.0\Media Positivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\obj\Debug\net5.0\Media Positivo.AssemblyInfoInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\obj\Debug\net5.0\Media Positivo.AssemblyInfo.cs
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\obj\Debug\net5.0\Media Positivo.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\obj\Debug\net5.0\Media Positivo.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\obj\Debug\net5.0\ref\Media Positivo.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\obj\Debug\net5.0\Media Positivo.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\obj\Debug\net5.0\Media Positivo.genruntimeconfig.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Media Positivo\obj\Debug\net5.0\Media Positivo.csproj.AssemblyReference.cache

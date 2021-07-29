@@ -1,0 +1,16 @@
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\obj\Debug\net5.0\Trigo no Tabuleiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\obj\Debug\net5.0\Trigo no Tabuleiro.AssemblyInfoInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\obj\Debug\net5.0\Trigo no Tabuleiro.AssemblyInfo.cs
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\obj\Debug\net5.0\Trigo no Tabuleiro.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\bin\Debug\net5.0\Trigo no Tabuleiro.exe
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\bin\Debug\net5.0\Trigo no Tabuleiro.deps.json
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\bin\Debug\net5.0\Trigo no Tabuleiro.runtimeconfig.json
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\bin\Debug\net5.0\Trigo no Tabuleiro.runtimeconfig.dev.json
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\bin\Debug\net5.0\Trigo no Tabuleiro.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\bin\Debug\net5.0\ref\Trigo no Tabuleiro.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\bin\Debug\net5.0\Trigo no Tabuleiro.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\obj\Debug\net5.0\Trigo no Tabuleiro.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\obj\Debug\net5.0\ref\Trigo no Tabuleiro.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\obj\Debug\net5.0\Trigo no Tabuleiro.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\obj\Debug\net5.0\Trigo no Tabuleiro.genruntimeconfig.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Trigo no Tabuleiro\obj\Debug\net5.0\Trigo no Tabuleiro.csproj.AssemblyReference.cache

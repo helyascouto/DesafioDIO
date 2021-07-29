@@ -1,0 +1,7 @@
+C:\Users\Elias Couto\source\repos\Novo Console\Pedro Bento e o Mundo de OZ\bin\Debug\Pedro Bento e o Mundo de OZ.exe.config
+C:\Users\Elias Couto\source\repos\Novo Console\Pedro Bento e o Mundo de OZ\bin\Debug\Pedro Bento e o Mundo de OZ.exe
+C:\Users\Elias Couto\source\repos\Novo Console\Pedro Bento e o Mundo de OZ\bin\Debug\Pedro Bento e o Mundo de OZ.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Pedro Bento e o Mundo de OZ\obj\Debug\Pedro Bento e o Mundo de OZ.csproj.AssemblyReference.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Pedro Bento e o Mundo de OZ\obj\Debug\Pedro Bento e o Mundo de OZ.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Pedro Bento e o Mundo de OZ\obj\Debug\Pedro Bento e o Mundo de OZ.exe
+C:\Users\Elias Couto\source\repos\Novo Console\Pedro Bento e o Mundo de OZ\obj\Debug\Pedro Bento e o Mundo de OZ.pdb

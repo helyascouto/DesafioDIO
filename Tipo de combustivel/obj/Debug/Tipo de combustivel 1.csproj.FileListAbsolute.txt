@@ -1,0 +1,2 @@
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Aceleração Global Dev #7 Avanade\Tipo de combustivel\obj\Debug\Tipo de combustivel 1.csprojAssemblyReference.cache
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Aceleração Global Dev #7 Avanade\Tipo de combustivel\obj\Debug\Tipo de combustivel 1.csproj.CoreCompileInputs.cache

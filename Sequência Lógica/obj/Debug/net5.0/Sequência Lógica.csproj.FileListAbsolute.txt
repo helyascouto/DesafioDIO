@@ -1,0 +1,16 @@
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\obj\Debug\net5.0\Sequência Lógica.csproj.AssemblyReference.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\obj\Debug\net5.0\Sequência Lógica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\obj\Debug\net5.0\Sequência Lógica.AssemblyInfoInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\obj\Debug\net5.0\Sequência Lógica.AssemblyInfo.cs
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\obj\Debug\net5.0\Sequência Lógica.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\bin\Debug\net5.0\Sequência Lógica.exe
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\bin\Debug\net5.0\Sequência Lógica.deps.json
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\bin\Debug\net5.0\Sequência Lógica.runtimeconfig.json
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\bin\Debug\net5.0\Sequência Lógica.runtimeconfig.dev.json
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\bin\Debug\net5.0\Sequência Lógica.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\bin\Debug\net5.0\ref\Sequência Lógica.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\bin\Debug\net5.0\Sequência Lógica.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\obj\Debug\net5.0\Sequência Lógica.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\obj\Debug\net5.0\ref\Sequência Lógica.dll
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\obj\Debug\net5.0\Sequência Lógica.pdb
+C:\Users\Elias Couto\source\repos\Novo Console\Sequência Lógica\obj\Debug\net5.0\Sequência Lógica.genruntimeconfig.cache
