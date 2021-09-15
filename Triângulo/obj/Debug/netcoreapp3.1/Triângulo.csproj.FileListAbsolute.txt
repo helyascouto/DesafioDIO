@@ -4,10 +4,11 @@ C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Triângulo\bin\Debug\ne
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Triângulo\bin\Debug\netcoreapp3.1\Triângulo.runtimeconfig.dev.json
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Triângulo\bin\Debug\netcoreapp3.1\Triângulo.dll
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Triângulo\bin\Debug\netcoreapp3.1\Triângulo.pdb
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.csprojAssemblyReference.cache
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.AssemblyInfoInputs.cache
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.AssemblyInfo.cs
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.csproj.CoreCompileInputs.cache
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.dll
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.pdb
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.genruntimeconfig.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.csproj.AssemblyReference.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Triângulo\obj\Debug\netcoreapp3.1\Triângulo.GeneratedMSBuildEditorConfig.editorconfig

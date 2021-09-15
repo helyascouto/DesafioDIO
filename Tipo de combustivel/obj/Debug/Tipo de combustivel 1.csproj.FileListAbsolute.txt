@@ -1,2 +1,9 @@
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Aceleração Global Dev #7 Avanade\Tipo de combustivel\obj\Debug\Tipo de combustivel 1.csprojAssemblyReference.cache
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Aceleração Global Dev #7 Avanade\Tipo de combustivel\obj\Debug\Tipo de combustivel 1.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Tipo de combustivel\bin\Debug\Tipo_de_combustivel_1.exe.config
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Tipo de combustivel\bin\Debug\Tipo_de_combustivel_1.exe
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Tipo de combustivel\bin\Debug\Tipo_de_combustivel_1.pdb
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Tipo de combustivel\obj\Debug\Tipo de combustivel 1.csproj.AssemblyReference.cache
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Tipo de combustivel\obj\Debug\Tipo de combustivel 1.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Tipo de combustivel\obj\Debug\Tipo_de_combustivel_1.exe
+C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Tipo de combustivel\obj\Debug\Tipo_de_combustivel_1.pdb

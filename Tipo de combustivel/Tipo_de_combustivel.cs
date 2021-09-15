@@ -10,44 +10,35 @@ namespace Tipo_de_combustivel_1
     {
         static void Main(string[] args)
         {
-            int escolha = 0;
-            int gasolina = 0;
-            int alcool = 0;
-            int diesel = 0;
+            int[] contador = new int[3];
+            int codigo = 0;
+
             do
             {
+                codigo = Convert.ToInt32(Console.ReadLine());
 
-                Console.WriteLine(" 1-Álcool | 2-Gasolina | 3-Diesel |4-Sair");
-                escolha = Convert.ToInt32(Console.ReadLine());
-
-                switch (escolha)
+                switch (codigo)
                 {
                     case 1:
-                        alcool += +1;
+                        contador[0]++;
                         break;
-
                     case 2:
-                        gasolina += +1;
+                        contador[1]++;
                         break;
-
                     case 3:
-                        diesel += +1;
+                        contador[2]++;
                         break;
-
-                    case 4:
-                        Console.WriteLine($" Obrigado por utilizar nosso sistema! \n Alcool: {alcool} Gasolina: {gasolina} Diesel: {diesel})");
-
-                        break;
-
                     default:
-                        Console.WriteLine("Código inválido (fora da faixa de 1 a 4)");
-                        break;
+                        continue;
                 }
-            }
+            } while (codigo != 4);
 
-            while (escolha != 4);
-
+            System.Console.WriteLine("MUITO OBRIGADO");
+            System.Console.WriteLine("Alcool: " + contador[0]);
+            System.Console.WriteLine("Gasolina: " + contador[1]);
+            System.Console.WriteLine("Diesel: " + contador[2]);
         }
+
     }
 
 }

@@ -23,3 +23,5 @@ C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.dll
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.pdb
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.genruntimeconfig.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.csproj.AssemblyReference.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.GeneratedMSBuildEditorConfig.editorconfig

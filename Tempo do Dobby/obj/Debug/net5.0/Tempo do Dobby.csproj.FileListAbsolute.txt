@@ -1,0 +1,16 @@
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\bin\Debug\net5.0\Tempo do Dobby.exe
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\bin\Debug\net5.0\Tempo do Dobby.deps.json
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\bin\Debug\net5.0\Tempo do Dobby.runtimeconfig.json
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\bin\Debug\net5.0\Tempo do Dobby.runtimeconfig.dev.json
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\bin\Debug\net5.0\Tempo do Dobby.dll
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\bin\Debug\net5.0\ref\Tempo do Dobby.dll
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\bin\Debug\net5.0\Tempo do Dobby.pdb
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\obj\Debug\net5.0\Tempo do Dobby.csproj.AssemblyReference.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\obj\Debug\net5.0\Tempo do Dobby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\obj\Debug\net5.0\Tempo do Dobby.AssemblyInfoInputs.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\obj\Debug\net5.0\Tempo do Dobby.AssemblyInfo.cs
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\obj\Debug\net5.0\Tempo do Dobby.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\obj\Debug\net5.0\Tempo do Dobby.dll
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\obj\Debug\net5.0\ref\Tempo do Dobby.dll
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\obj\Debug\net5.0\Tempo do Dobby.pdb
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Tempo do Dobby\obj\Debug\net5.0\Tempo do Dobby.genruntimeconfig.cache

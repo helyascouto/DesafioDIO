@@ -36,3 +36,5 @@ C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validaç�
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.dll
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.pdb
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.genruntimeconfig.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.csproj.AssemblyReference.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.GeneratedMSBuildEditorConfig.editorconfig

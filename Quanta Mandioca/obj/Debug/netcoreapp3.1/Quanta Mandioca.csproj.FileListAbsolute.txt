@@ -23,3 +23,5 @@ C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Deb
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.dll
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.pdb
 C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.genruntimeconfig.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.csproj.AssemblyReference.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.GeneratedMSBuildEditorConfig.editorconfig

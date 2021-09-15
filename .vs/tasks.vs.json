@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-Pedro Bento e o Mundo de OZ",
+      "appliesTo": "Pedro Bento e o Mundo de OZ/",
+      "type": "launch"
+    }
+  ]
+}
