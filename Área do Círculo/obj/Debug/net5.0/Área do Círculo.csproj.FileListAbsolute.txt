@@ -1,0 +1,16 @@
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\bin\Debug\net5.0\Área do Círculo.exe
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\bin\Debug\net5.0\Área do Círculo.deps.json
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\bin\Debug\net5.0\Área do Círculo.runtimeconfig.json
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\bin\Debug\net5.0\Área do Círculo.runtimeconfig.dev.json
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\bin\Debug\net5.0\Área do Círculo.dll
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\bin\Debug\net5.0\ref\Área do Círculo.dll
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\bin\Debug\net5.0\Área do Círculo.pdb
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\obj\Debug\net5.0\Área do Círculo.csproj.AssemblyReference.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\obj\Debug\net5.0\Área do Círculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\obj\Debug\net5.0\Área do Círculo.AssemblyInfoInputs.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\obj\Debug\net5.0\Área do Círculo.AssemblyInfo.cs
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\obj\Debug\net5.0\Área do Círculo.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\obj\Debug\net5.0\Área do Círculo.dll
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\obj\Debug\net5.0\ref\Área do Círculo.dll
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\obj\Debug\net5.0\Área do Círculo.pdb
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Área do Círculo\obj\Debug\net5.0\Área do Círculo.genruntimeconfig.cache

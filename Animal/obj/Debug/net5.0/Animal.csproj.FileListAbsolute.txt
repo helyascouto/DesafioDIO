@@ -1,0 +1,16 @@
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\bin\Debug\net5.0\Animal.exe
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\bin\Debug\net5.0\Animal.deps.json
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\bin\Debug\net5.0\Animal.runtimeconfig.json
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\bin\Debug\net5.0\Animal.runtimeconfig.dev.json
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\bin\Debug\net5.0\Animal.dll
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\bin\Debug\net5.0\ref\Animal.dll
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\bin\Debug\net5.0\Animal.pdb
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\obj\Debug\net5.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\obj\Debug\net5.0\Animal.AssemblyInfoInputs.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\obj\Debug\net5.0\Animal.AssemblyInfo.cs
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\obj\Debug\net5.0\Animal.csproj.CoreCompileInputs.cache
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\obj\Debug\net5.0\Animal.dll
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\obj\Debug\net5.0\ref\Animal.dll
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\obj\Debug\net5.0\Animal.pdb
+C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Animal\obj\Debug\net5.0\Animal.genruntimeconfig.cache
+C:\Users\Elias Couto\source\Repos\helyascouto\DesafioDIO\Animal\obj\Debug\net5.0\Animal.csproj.AssemblyReference.cache
