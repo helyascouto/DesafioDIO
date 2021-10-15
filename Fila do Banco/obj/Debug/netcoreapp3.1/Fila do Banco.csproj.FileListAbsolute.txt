@@ -11,17 +11,3 @@ C:\Users\BUTFIRE\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.
 C:\Users\BUTFIRE\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.pdb
 C:\Users\BUTFIRE\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.genruntimeconfig.cache
 C:\Users\BUTFIRE\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.csprojAssemblyReference.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Fila do Banco\bin\Debug\netcoreapp3.1\Fila do Banco.exe
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Fila do Banco\bin\Debug\netcoreapp3.1\Fila do Banco.deps.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Fila do Banco\bin\Debug\netcoreapp3.1\Fila do Banco.runtimeconfig.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Fila do Banco\bin\Debug\netcoreapp3.1\Fila do Banco.runtimeconfig.dev.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Fila do Banco\bin\Debug\netcoreapp3.1\Fila do Banco.dll
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Fila do Banco\bin\Debug\netcoreapp3.1\Fila do Banco.pdb
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.AssemblyInfoInputs.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.AssemblyInfo.cs
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.csproj.CoreCompileInputs.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.dll
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.pdb
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.genruntimeconfig.cache
-C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.csproj.AssemblyReference.cache
-C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Fila do Banco\obj\Debug\netcoreapp3.1\Fila do Banco.GeneratedMSBuildEditorConfig.editorconfig

@@ -24,17 +24,3 @@ C:\Users\BUTFIRE\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcore
 C:\Users\BUTFIRE\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.dll
 C:\Users\BUTFIRE\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.pdb
 C:\Users\BUTFIRE\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.genruntimeconfig.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\bin\Debug\netcoreapp3.1\Programa para Validação de Notas.exe
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\bin\Debug\netcoreapp3.1\Programa para Validação de Notas.deps.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\bin\Debug\netcoreapp3.1\Programa para Validação de Notas.runtimeconfig.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\bin\Debug\netcoreapp3.1\Programa para Validação de Notas.runtimeconfig.dev.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\bin\Debug\netcoreapp3.1\Programa para Validação de Notas.dll
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\bin\Debug\netcoreapp3.1\Programa para Validação de Notas.pdb
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.AssemblyInfoInputs.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.AssemblyInfo.cs
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.csproj.CoreCompileInputs.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.dll
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.pdb
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.genruntimeconfig.cache
-C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.csproj.AssemblyReference.cache
-C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Programa para Validação de Notas\obj\Debug\netcoreapp3.1\Programa para Validação de Notas.GeneratedMSBuildEditorConfig.editorconfig

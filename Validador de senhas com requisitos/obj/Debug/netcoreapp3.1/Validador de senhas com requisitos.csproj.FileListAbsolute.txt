@@ -11,17 +11,3 @@ C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcore
 C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.pdb
 C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.genruntimeconfig.cache
 C:\Users\BUTFIRE\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.csprojAssemblyReference.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\bin\Debug\netcoreapp3.1\Validador de senhas com requisitos.exe
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\bin\Debug\netcoreapp3.1\Validador de senhas com requisitos.deps.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\bin\Debug\netcoreapp3.1\Validador de senhas com requisitos.runtimeconfig.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\bin\Debug\netcoreapp3.1\Validador de senhas com requisitos.runtimeconfig.dev.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\bin\Debug\netcoreapp3.1\Validador de senhas com requisitos.dll
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\bin\Debug\netcoreapp3.1\Validador de senhas com requisitos.pdb
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.AssemblyInfoInputs.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.AssemblyInfo.cs
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.csproj.CoreCompileInputs.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.dll
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.pdb
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.genruntimeconfig.cache
-C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.csproj.AssemblyReference.cache
-C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Validador de senhas com requisitos\obj\Debug\netcoreapp3.1\Validador de senhas com requisitos.GeneratedMSBuildEditorConfig.editorconfig

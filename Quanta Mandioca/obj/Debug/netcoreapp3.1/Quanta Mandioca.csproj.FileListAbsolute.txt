@@ -11,17 +11,3 @@ C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandi
 C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.dll
 C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.pdb
 C:\Users\BUTFIRE\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.genruntimeconfig.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\bin\Debug\netcoreapp3.1\Quanta Mandioca.exe
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\bin\Debug\netcoreapp3.1\Quanta Mandioca.deps.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\bin\Debug\netcoreapp3.1\Quanta Mandioca.runtimeconfig.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\bin\Debug\netcoreapp3.1\Quanta Mandioca.runtimeconfig.dev.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\bin\Debug\netcoreapp3.1\Quanta Mandioca.dll
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\bin\Debug\netcoreapp3.1\Quanta Mandioca.pdb
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.AssemblyInfoInputs.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.AssemblyInfo.cs
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.csproj.CoreCompileInputs.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.dll
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.pdb
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.genruntimeconfig.cache
-C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.csproj.AssemblyReference.cache
-C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Quanta Mandioca\obj\Debug\netcoreapp3.1\Quanta Mandioca.GeneratedMSBuildEditorConfig.editorconfig

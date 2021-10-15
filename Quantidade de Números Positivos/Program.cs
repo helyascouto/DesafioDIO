@@ -12,7 +12,7 @@ namespace Quantidade_de_Números_Positivos
                 double valorInformadoPeloUsuario = double.Parse(Console.ReadLine());
                 if (valorInformadoPeloUsuario > 0)
                 {
-                    quantidadePositivos += +1; 
+                    quantidadePositivos += +1;
                 }
             }
             Console.WriteLine(quantidadePositivos + " valores positivos");

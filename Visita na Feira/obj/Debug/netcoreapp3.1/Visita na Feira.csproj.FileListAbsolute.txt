@@ -10,17 +10,3 @@ C:\Users\BUTFIRE\DesafioDIO\Visita na Feira\obj\Debug\netcoreapp3.1\Visita na Fe
 C:\Users\BUTFIRE\DesafioDIO\Visita na Feira\obj\Debug\netcoreapp3.1\Visita na Feira.dll
 C:\Users\BUTFIRE\DesafioDIO\Visita na Feira\obj\Debug\netcoreapp3.1\Visita na Feira.pdb
 C:\Users\BUTFIRE\DesafioDIO\Visita na Feira\obj\Debug\netcoreapp3.1\Visita na Feira.genruntimeconfig.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Visita na Feira\bin\Debug\netcoreapp3.1\Visita na Feira.exe
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Visita na Feira\bin\Debug\netcoreapp3.1\Visita na Feira.deps.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Visita na Feira\bin\Debug\netcoreapp3.1\Visita na Feira.runtimeconfig.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Visita na Feira\bin\Debug\netcoreapp3.1\Visita na Feira.runtimeconfig.dev.json
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Visita na Feira\bin\Debug\netcoreapp3.1\Visita na Feira.dll
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Visita na Feira\bin\Debug\netcoreapp3.1\Visita na Feira.pdb
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Visita na Feira\obj\Debug\netcoreapp3.1\Visita na Feira.AssemblyInfoInputs.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Visita na Feira\obj\Debug\netcoreapp3.1\Visita na Feira.AssemblyInfo.cs
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Visita na Feira\obj\Debug\netcoreapp3.1\Visita na Feira.csproj.CoreCompileInputs.cache
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Visita na Feira\obj\Debug\netcoreapp3.1\Visita na Feira.dll
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Visita na Feira\obj\Debug\netcoreapp3.1\Visita na Feira.pdb
-C:\Users\Elias Couto\source\repos\helyascouto\DesafioDIO\Visita na Feira\obj\Debug\netcoreapp3.1\Visita na Feira.genruntimeconfig.cache
-C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Visita na Feira\obj\Debug\netcoreapp3.1\Visita na Feira.csproj.AssemblyReference.cache
-C:\Users\Elias Couto\Source\Repos\helyascouto\DesafioDIO\Visita na Feira\obj\Debug\netcoreapp3.1\Visita na Feira.GeneratedMSBuildEditorConfig.editorconfig
